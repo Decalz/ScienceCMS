@@ -1,0 +1,57 @@
+h1 {
+	text-align: center;
+	color: black;
+}
+
+#center {
+	text-align: center;
+}
+
+#nav{
+	background-color: #F44336;
+	width: 100%;
+	height: auto;
+	margin-bottom: 0px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	margin-bottom:25px;
+}
+
+html {
+	background-image:url("back.png");
+	background-color: gray;
+	font-size: 14pt;
+	font-family: Verdana;
+}
+
+#links a{
+    display:inline-block;
+    padding:25px;
+	width: 10%;
+	color: white;
+	font-size: 200%;
+	text-decoration: none;
+	background-color: #2196F3;
+}
+
+#links a:hover{
+	background-color: #64B5F6;
+}
+
+#footer{
+    position:fixed;
+    height:auto;
+    background-color: black;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
+	text-align: center;
+	color: gray;
+}
+
+#footer:hover{
+color:white;}
